@@ -1,4 +1,4 @@
 
 <Versione: 1.01>
-/data/Map008.json https://wordpress.org/latest.zip
+/data/Map008.json https://github.com/GaidenKiedis95/UpdaterForProject/blob/master/Map008.json
 <End of Version>
